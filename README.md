@@ -23,7 +23,7 @@ Evaluación final del módulo 2 (promo H - Data Analytics)
 <b- Dominar el uso de las subconsultas correlacionadas
 <b- CTE’s
 
-<h2> Planificación del ejercicio final</h2>
+PLANIFICACIÓN DEL EJERCICIO FINAL
 
        - Inicio: 13/05/24 (Inclusive desde las 14 horas)
        - Fin: 16/05/24 (Inclusive hasta las 08:29 horas)
