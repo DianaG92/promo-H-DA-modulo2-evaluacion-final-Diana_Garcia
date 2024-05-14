@@ -32,6 +32,4 @@ Zoom </br>
 
 <h2>Documentación</h1>
 La documentación se puede encontrar a lo largo de este repositorio</br>
-Enlace a la documentación"
-  <a https://github.com/DianaG92/promo-H-DA-modulo2-evaluacion-final-Diana_Garcia/blob/main/ejercicio-final-modulo-2-PROMO-H.pdf >
-
+"https://github.com/DianaG92/promo-H-DA-modulo2-evaluacion-final-Diana_Garcia/blob/main/ejercicio-final-modulo-2-PROMO-H.pdf"
