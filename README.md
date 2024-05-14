@@ -9,9 +9,9 @@ Evaluación final del módulo 2 (promo H - Data Analytics)
 <b> Diana García: </b> Desarrolladora con experiencia en MySQL </br>
 
 <h2> Criterios de aceptación</h2>
-<b> Crear un nuevo repositorio en GitHub al que tengan acceso todos las personas que lo soliciten.</b></br>
-<b> Guardar en el repositorio de GitHub todo el código del desarrollo del ejercicio.</b></br>
-<b> El ejercicio debe ser realizado en un archivo SQL, pudiendo hacer uso de recursos externos (Internet o materiales de referencia) y/o anotaciones propias.</b></br>
+- Crear un nuevo repositorio en GitHub al que tengan acceso todos las personas que lo soliciten.</b></br>
+- Guardar en el repositorio de GitHub todo el código del desarrollo del ejercicio.</b></br>
+- El ejercicio debe ser realizado en un archivo SQL, pudiendo hacer uso de recursos externos (Internet o materiales de referencia) y/o anotaciones propias.</b></br>
 
 <h2> Criterios de evaluación</h2>
 <b> La evaluación final se realizará en base a los siguientes criterios:</b></br>
