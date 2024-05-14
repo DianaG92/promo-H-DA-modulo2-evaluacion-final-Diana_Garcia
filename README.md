@@ -13,10 +13,15 @@ Evaluación final del módulo 2 (promo H - Data Analytics)
 <h2> Criterios de evaluación en SQL </h2>
 <b> La evaluación final se realizará en base a los siguientes criterios:</b></br>
 - Dominar las queries básicas: SELECT; UPDATE; DELETE; INSERT *.</b></br>
+
 - Dominar las funciones "group by", "where" y "having". 
+
 - Dominar el uso de "joins" (incluyendo "union" y "union all").
+
 - Dominar el uso de subconsultas.
+
 - Dominar el uso de las subconsultas correlacionadas.
+
 - CTE’s.
 
 PLANIFICACIÓN DEL EJERCICIO FINAL
