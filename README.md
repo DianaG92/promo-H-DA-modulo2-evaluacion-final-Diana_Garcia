@@ -2,7 +2,9 @@
 
 Evaluación final del módulo 2 (promo H - Data Analytics)
 
-<h1>Evaluación final del módulo 2 (promo H - Data Analytics)</h1>
+<h1>Estructura del ejercicio final</h1>
+
+### 
 
 ![3](https://github.com/nuriancg/proyecto-da-promo-H-modulo-1-team-3-Peter_Pan/assets/99440874/f0aee1f4-e561-4866-98df-f51108d7de5b)
 
@@ -36,26 +38,21 @@ Evaluación final del módulo 2 (promo H - Data Analytics)
 <b> Guardar en el repositorio de GitHub todo el código del desarrollo del proyecto.</b></br>
 <b> Los juegos creados tienen que estar automatizados.</b></br>
 
-<h2> Planificación del proyecto</h2>
+<h2> Planificación del ejercicio final</h2>
 
-      Sprint 1:
-       - Duración: 3 sesiones de 2h 
-       - Inicio: 09/04/24 (Inclusive)
-       - Fin: 11/04/24 (Inclusive)
-       - Sprint review: 12/04/24 @13:10h 
- 
-      Sprint 2:
-       - Duración: 3 sesiones de 2h 
-       - Inicio: 15/04/24 (Inclusive)
-       - Fin: 17/04/24 (Inclusive)
-       - Sprint review: n/a --> DEMO
+       - Inicio: 13/05/24 (Inclusive)
+       - Fin: 16/05/24 (Inclusive hasta las 08:29 horas)
 
-      DEMO / Fin del proyecto: 18/04/24 @TBC
+      ENTREVISTA TÉCNICA 
+      
+       - 16/05/24 a las 08:30 horas
 
 <h2>Herramientas</h2>
-Visual Studio Code </br>
 GitHub </br>
-Zoom</br>
+MySQL Workbench </br>
+Visual Studio Code </br>
+Slack </br>
+Zoom </br>
 
 
 <h2>Documentación</h1>
